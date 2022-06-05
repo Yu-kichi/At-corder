@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 x, n = gets.chomp.split.map(&:to_i)
 if n == 0
   puts x
