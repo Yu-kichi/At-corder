@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 n = gets.chomp.split.map(&:to_i)
 
 alp = ("a".."z").to_a
