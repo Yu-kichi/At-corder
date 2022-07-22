@@ -17,7 +17,7 @@ ary.each do |i|
     if n + i >= 4
       count += 1
       ab.delete(n)
-    else
+      else1
       aa << n+i
     end
   end
